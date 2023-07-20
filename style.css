@@ -2,7 +2,7 @@ body {
 
     background-color: hsl(185, 75%, 39%);
     background-image: url("images/bg-pattern-top.svg"), url("images/bg-pattern-bottom.svg");
-    background-position: 50vh 50vh , 50% -50%; /* THis is where you left off, trying to figure out these bubbles */ 
+    background-position: left -50vh, right 50vh;
     background-repeat: no-repeat, no-repeat;
     
     padding:0;
