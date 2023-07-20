@@ -38,8 +38,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - HTML
 - CSS
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 I familiarized myself with the box model (padding, margin, borders, etc.) as well as image and element positining. 
